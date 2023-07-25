@@ -29,9 +29,9 @@ Check out the live demo of this project: [Simple Social Network Web app](https:/
 - To publish a post, click on your profile picture and enter the image URL and description in the form that appears.
 
 ## Technologies Used
-- HTML
-- CSS
 - JavaScript
+- CSS
+- HTML
 
 ### Author
 Joaquim Luzia
